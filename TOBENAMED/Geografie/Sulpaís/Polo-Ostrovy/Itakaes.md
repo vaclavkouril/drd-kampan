@@ -1,0 +1,1 @@
+Jedná se o poloostrov na severozápadním cípu světadílu [[Sulpaís]], tropického podnebí s údolími a rozvětvenými řekami a potoky v nich. Poloostrovu dominuje hora 

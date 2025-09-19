@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "One-shots/Přetahovaná/Břeh vraku.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Břeh vraku"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,22 +171,41 @@
   },
   "active": "20802e92aa115106",
   "lastOpenFiles": [
-    "One-shots/V Bufově lese/Akt 1.md",
-    "README.md",
-    "One-shots/V Bufově lese",
-    "One-shots",
+    "Dračí doupě 2/boj.md",
     "Dračí doupě 2/Dračí doupě 2.md",
-    "Dračí doupě 2/denik_pomocnik.pdf",
+    "Dračí doupě 2/Hody a Obtížnost.md",
+    "Dračí doupě 2/interakce.md",
+    "Dračí doupě 2/mechaniky.md",
+    "Dračí doupě 2/pokroky.md",
+    "Dračí doupě 2/postavy.md",
+    "Dračí doupě 2/Postavy.md",
+    "One-shots/Přetahovaná/Břeh vraku.md",
+    "Dračí doupě 2/tipy.md",
+    "Dračí doupě 2/uvod.md",
+    "Dračí doupě 2/README.md",
     "Dračí doupě 2/osobni_denik.pdf",
-    "Dračí doupě 2",
+    "drd.zip",
+    "ziAf1XzM",
+    "One-shots/Přetahovaná/Zásobník postav",
+    "README.md",
+    "One-shots/Přetahovaná",
+    "One-shots",
+    "TOBENAMED/Geografie/Sulpaís/Pohoří/Goladalta.md",
+    "TOBENAMED/Geografie/Sulpaís/Obyvatelé/Bufoeninové.md",
+    "TOBENAMED/Akt 1/Odysova pouta.md",
+    "TOBENAMED/Geografie/Sulpaís/Obyvatelé",
+    "TOBENAMED/Geografie/Sulpaís/Polo-Ostrovy/Itakaes.md",
+    "TOBENAMED/Geografie/Sulpaís/Pohoří",
+    "TOBENAMED/Geografie/Sulpaís/Sulpaís.md",
+    "TOBENAMED/Geografie/Quateís/Quateís.md",
+    "TOBENAMED/Geografie/Sulpaís/Osady",
+    "TOBENAMED/Geografie/Sulpaís/Řeky",
+    "TOBENAMED/Geografie/Sulpaís/Untitled.md",
+    "hráč.md",
+    "One-shots/V Bufově lese/Akt 1.md",
     "howto/Postava.md",
     "howto/Konflikt.md",
     "howto/Hraní.md",
-    "lore/Fyzika, přírodní (ne)zákony.md",
-    "howto",
-    "mentony.md",
-    "lore/Božstvo.md",
-    "lore",
-    "postavy"
+    "lore/Fyzika, přírodní (ne)zákony.md"
   ]
 }
